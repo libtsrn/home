@@ -1,6 +1,10 @@
 [book]
 authors = ["tasuren"]
-language = "en"
+language = "ja"
 multilingual = false
 src = "src"
 title = "libtsrn"
+
+[output.html]
+git-repository-url = "https://github.com/libtsrn/home"
+edit-url-template = "https://github.com/libtsrn/home/edit/main/{path}"
